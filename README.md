@@ -67,7 +67,7 @@
   Key features include real-time collaboration, automated task prioritization, customizable dashboards, and integration with popular tools like Slack and Jira.
   
 ## 12. What data is available regarding your software's market size and growth potential?
-  The global project management software market is projected to grow from 9.81 billion by 2026, driven by increasing demand for remote work solutions and automation.
+  The global project management software market is projected to grow from 5.37 billion in 2021 to 9.81 billion by 2026, driven by increasing demand for remote work solutions and automation.
     
 ## 13. How can understanding market trends inform your software’s positioning and development?
   Understanding market trends helps identify emerging needs, such as remote work tools or AI-driven analytics, allowing the software to stay relevant and competitive. It also guides marketing strategies, feature 
